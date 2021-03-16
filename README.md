@@ -4,4 +4,4 @@ In this notebook, I will go through a real-world dataset related to energy consu
 ## Objective
 Build a model that predicts total electric consumption (KWH)
 
-This is a supervised, regression machine learning task: given a set of data with targets (in this case total elelctricty consumption) included, we want to train a model that can learn to map the features to the target.
+This is a supervised, regression machine learning task: given a set of data with targets (in this case total electricty consumption) included, we want to train a model that can learn to map the features to the target.
